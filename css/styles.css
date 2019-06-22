@@ -12,6 +12,14 @@
     background-color: #1abc9c; /* Green */
     color: #ffffff;
   }
+
+	.plink {
+		color: white;
+	}
+	a:hover {
+		text-decoration: none;
+	}
+
   .bg-2 { 
     background-color: #474e5d; /* Dark Blue */
     color: #ffffff;
